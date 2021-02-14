@@ -1,7 +1,12 @@
 <resources>
 
-
-<!—CORRECTION FROM V 10/02/2020-->
+  <!-- FOR CORRECTION -->
+    <!-- There was an error here in the english version, the correct text is GPX Files and not GPX Tracks -->
+    <string name="manage_gpx_files">GPX Files</string>
+    <!-- END FOR CORRECTION -->
+    
+    
+<!—CORRECTION FROM V 11/02/2020-->
 
 <string name="app_name">DMD2</string>
 
@@ -280,7 +285,7 @@ Veuillez passer manuellement au menu système et régler votre luminosité au ma
 <string name="hillshading_switch_state">Affiche les couches d’ombrage:</string>
 <string name="tilt_adjust_mode">Ajustement de l’inclinaison de la boussole</string>
 <string name="tilt_adjust_mode_message">Haut/Bas pour changer l’inclinaison de la carte. Entrer/Centrer Click pour enregistrer &amp; Sortir.</string>
-<string name="manage_gpx_files">Trace GPX</string>
+<string name="manage_gpx_files">Fichier GPX</string>
 <string name="waypoint_box_close">Fermer</string>
 <string name="waypoint_box_navigate">Naviguer</string>
 <string name="waypoint_box_share">Partager</string>
